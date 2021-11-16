@@ -40,8 +40,4 @@ SELECT * FROM `Pedido`;
 
 SELECT * FROM `Itenspedido`;
 
-SELECT * FROM `Itenspedido`;
-
-SELECT * FROM `Pedido`;
-
 
