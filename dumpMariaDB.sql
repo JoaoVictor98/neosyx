@@ -37,6 +37,8 @@ CREATE TABLE `Tipopagamento` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 SELECT * FROM `Pedido`;
+
 SELECT * FROM `Itenspedido`;
+
 SELECT * FROM `Itenspedido`;
 
